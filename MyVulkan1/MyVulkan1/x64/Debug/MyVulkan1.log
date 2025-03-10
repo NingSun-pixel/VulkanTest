@@ -1,6 +1,7 @@
 ﻿  main.cpp
-E:\CGLAB\VulkanTest\MyVulkan1\MyVulkan1\main.cpp(117,22): warning C4101: 'glfwExtensions': unreferenced local variable
-E:\CGLAB\VulkanTest\MyVulkan1\MyVulkan1\main.cpp(103,34): warning C4101: 'debugMessenger': unreferenced local variable
+E:\CGLAB\VulkanTest\MyVulkan1\MyVulkan1\main.cpp(200,22): warning C4101: 'glfwExtensions': unreferenced local variable
+E:\CGLAB\VulkanTest\MyVulkan1\MyVulkan1\main.cpp(186,34): warning C4101: 'debugMessenger': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   MyVulkan1.vcxproj -> E:\CGLAB\VulkanTest\MyVulkan1\x64\Debug\MyVulkan1.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
